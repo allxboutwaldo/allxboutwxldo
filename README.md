@@ -40,7 +40,7 @@
   <a href="https://discord.com/users/1244328028650344499" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-    <a href="[https://discord.com/_kean999](https://www.tiktok.com/@notwaldoxclsv)" target="_blank">
+    <a href="https://www.tiktok.com/@notwaldoxclsv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=tiktok&logo=tiktok&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  />
   </a>
 </div>
